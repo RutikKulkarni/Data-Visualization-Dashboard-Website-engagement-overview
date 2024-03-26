@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 const dataSchema = new mongoose.Schema({
-  id: { type: Number, required: true }, // Adding custom id field
+  id: { type: Number, required: true }, 
   date: { type: String, required: true },
   page_views: { type: Number, required: true },
   average_time_on_page: { type: Number, required: true },

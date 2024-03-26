@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const dataFilePath = path.join(__dirname, '../DB/export_data.json');
+const dataFilePath = path.join(__dirname, '../DB/data.json');
 
 exports.getAllData = async (req, res) => {
   try {
