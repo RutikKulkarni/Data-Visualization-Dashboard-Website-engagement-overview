@@ -12,7 +12,6 @@ This is the backend server for the data visualization dashboard project. It prov
 2. Create a `.env` file in the root directory and add your MongoDB URI and JWT secret:
 
 `MONGODB_URI=your_mongodb_uri`
-`JWT_SECRET=your_jwt_secret`
 
 
 3. Start the server:
