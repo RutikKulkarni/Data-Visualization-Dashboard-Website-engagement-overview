@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "date": "2024-03-25",
     "page_views": 100000,
     "average_time_on_page": 2,
@@ -21,6 +22,7 @@
     "new_visitor_sessions": 50000
   },
   {
+    "id": 2,
     "date": "2024-03-24",
     "page_views": 95000,
     "average_time_on_page": 2.1,
@@ -42,6 +44,7 @@
     "new_visitor_sessions": 47500
   },
   {
+    "id": 3,
     "date": "2024-03-23",
     "page_views": 105000,
     "average_time_on_page": 1.9,
@@ -63,6 +66,7 @@
     "new_visitor_sessions": 52500
   },
   {
+    "id": 4,
     "date": "2024-03-22",
     "page_views": 98000,
     "average_time_on_page": 2.2,
@@ -84,6 +88,7 @@
     "new_visitor_sessions": 49000
   },
   {
+    "id": 5,
     "date": "2024-03-21",
     "page_views": 102000,
     "average_time_on_page": 2,
@@ -105,6 +110,7 @@
     "new_visitor_sessions": 51000
   },
   {
+    "id": 6,
     "date": "2024-03-20",
     "page_views": 97000,
     "average_time_on_page": 2.1,
@@ -126,6 +132,7 @@
     "new_visitor_sessions": 48500
   },
   {
+    "id": 7,
     "date": "2024-03-19",
     "page_views": 99000,
     "average_time_on_page": 2,
@@ -147,6 +154,7 @@
     "new_visitor_sessions": 49500
   },
   {
+    "id": 8,
     "date": "2024-03-18",
     "page_views": 96000,
     "average_time_on_page": 2.2,
@@ -168,6 +176,7 @@
     "new_visitor_sessions": 48000
   },
   {
+    "id": 9,
     "date": "2024-03-17",
     "page_views": 101000,
     "average_time_on_page": 2,

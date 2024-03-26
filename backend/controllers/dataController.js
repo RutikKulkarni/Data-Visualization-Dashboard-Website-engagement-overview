@@ -1,12 +1,31 @@
-const Data = require("../models/Data");
+const fs = require('fs');
+const path = require('path');
 
-exports.getData = async (req, res) => {
+const dataFilePath = path.join(__dirname, '../DB/export_data.json');
+
+exports.getAllData = async (req, res) => {
   try {
-    const data = await Data.find();
+    const rawData = fs.readFileSync(dataFilePath, 'utf8');
+    const data = JSON.parse(rawData);
     res.json(data);
-  } catch (err) {
-    res.status(500).json({ message: err.message });
+  } catch (error) {
+    console.error('Error fetching data:', error);
+    res.status(500).json({ error: 'Internal server error' });
   }
 };
 
-// Implement other controller functions as needed
+exports.getDataById = async (req, res) => {
+  try {
+    const id = parseInt(req.params.id);
+    const rawData = fs.readFileSync(dataFilePath, 'utf8');
+    const data = JSON.parse(rawData);
+    const item = data.find(item => item.id === id);
+    if (!item) {
+      return res.status(404).json({ error: 'Data not found' });
+    }
+    res.json(item);
+  } catch (error) {
+    console.error('Error fetching data:', error);
+    res.status(500).json({ error: 'Internal server error' });
+  }
+};

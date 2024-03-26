@@ -1,0 +1,199 @@
+{
+    "id": 1,
+    "date": "2024-03-25",
+    "page_views": 100000,
+    "average_time_on_page": 2,
+    "average_session_duration": 3,
+    "pages_per_session": 3,
+    "bounce_rate": 20,
+    "traffic_sources": {
+      "direct": 50000,
+      "organic_search": 30000,
+      "referral": 10000,
+      "social": 10000
+    },
+    "social_referrals": {
+      "facebook": 5000,
+      "twitter": 2500,
+      "linkedin": 1500,
+      "other": 1000
+    },
+    "new_visitor_sessions": 50000
+  },
+  {
+    "id": 2,
+    "date": "2024-03-24",
+    "page_views": 95000,
+    "average_time_on_page": 2.1,
+    "average_session_duration": 2.9,
+    "pages_per_session": 3.2,
+    "bounce_rate": 21,
+    "traffic_sources": {
+      "direct": 47500,
+      "organic_search": 28500,
+      "referral": 9500,
+      "social": 9500
+    },
+    "social_referrals": {
+      "facebook": 4750,
+      "twitter": 2375,
+      "linkedin": 1425,
+      "other": 950
+    },
+    "new_visitor_sessions": 47500
+  },
+  {
+    "id": 3,
+    "date": "2024-03-23",
+    "page_views": 105000,
+    "average_time_on_page": 1.9,
+    "average_session_duration": 3.1,
+    "pages_per_session": 2.8,
+    "bounce_rate": 19,
+    "traffic_sources": {
+      "direct": 52500,
+      "organic_search": 31500,
+      "referral": 10500,
+      "social": 10500
+    },
+    "social_referrals": {
+      "facebook": 5250,
+      "twitter": 2625,
+      "linkedin": 1575,
+      "other": 1050
+    },
+    "new_visitor_sessions": 52500
+  },
+  {
+    "id": 4,
+    "date": "2024-03-22",
+    "page_views": 98000,
+    "average_time_on_page": 2.2,
+    "average_session_duration": 2.8,
+    "pages_per_session": 3.1,
+    "bounce_rate": 22,
+    "traffic_sources": {
+      "direct": 49000,
+      "organic_search": 29400,
+      "referral": 9800,
+      "social": 9800
+    },
+    "social_referrals": {
+      "facebook": 4900,
+      "twitter": 2450,
+      "linkedin": 1470,
+      "other": 980
+    },
+    "new_visitor_sessions": 49000
+  },
+  {
+    "id": 5,
+    "date": "2024-03-21",
+    "page_views": 102000,
+    "average_time_on_page": 2,
+    "average_session_duration": 3,
+    "pages_per_session": 3,
+    "bounce_rate": 20,
+    "traffic_sources": {
+      "direct": 51000,
+      "organic_search": 30600,
+      "referral": 10200,
+      "social": 10200
+    },
+    "social_referrals": {
+      "facebook": 5100,
+      "twitter": 2550,
+      "linkedin": 1530,
+      "other": 1020
+    },
+    "new_visitor_sessions": 51000
+  },
+  {
+    "id": 6,
+    "date": "2024-03-20",
+    "page_views": 97000,
+    "average_time_on_page": 2.1,
+    "average_session_duration": 2.9,
+    "pages_per_session": 3.2,
+    "bounce_rate": 21,
+    "traffic_sources": {
+      "direct": 48500,
+      "organic_search": 29100,
+      "referral": 9700,
+      "social": 9700
+    },
+    "social_referrals": {
+      "facebook": 4850,
+      "twitter": 2425,
+      "linkedin": 1455,
+      "other": 970
+    },
+    "new_visitor_sessions": 48500
+  },
+  {
+    "id": 7,
+    "date": "2024-03-19",
+    "page_views": 99000,
+    "average_time_on_page": 2,
+    "average_session_duration": 3.1,
+    "pages_per_session": 2.8,
+    "bounce_rate": 19,
+    "traffic_sources": {
+      "direct": 49500,
+      "organic_search": 29700,
+      "referral": 9900,
+      "social": 9900
+    },
+    "social_referrals": {
+      "facebook": 4950,
+      "twitter": 2475,
+      "linkedin": 1485,
+      "other": 990
+    },
+    "new_visitor_sessions": 49500
+  },
+  {
+    "id": 8,
+    "date": "2024-03-18",
+    "page_views": 96000,
+    "average_time_on_page": 2.2,
+    "average_session_duration": 2.8,
+    "pages_per_session": 3.1,
+    "bounce_rate": 22,
+    "traffic_sources": {
+      "direct": 48000,
+      "organic_search": 28800,
+      "referral": 9600,
+      "social": 9600
+    },
+    "social_referrals": {
+      "facebook": 4800,
+      "twitter": 2400,
+      "linkedin": 1440,
+      "other": 960
+    },
+    "new_visitor_sessions": 48000
+  },
+  {
+    "id": 9,
+    "date": "2024-03-17",
+    "page_views": 101000,
+    "average_time_on_page": 2,
+    "average_session_duration": 3,
+    "pages_per_session": 3,
+    "bounce_rate": 20,
+    "traffic_sources": {
+      "direct": 50500,
+      "organic_search": 30300,
+      "referral": 10100,
+      "social": 10100
+    },
+    "social_referrals": {
+      "facebook": 5050,
+      "twitter": 2525,
+      "linkedin": 1515,
+      "other": 1010
+    },
+    "new_visitor_sessions": 50500
+  }
+
