@@ -1,0 +1,58 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore .DS_Store files
+.DS_Store
+
+# Ignore environment-specific files
+.env
+.env.local
+.env.*.local
+
+# Ignore npm debug log
+npm-debug.log*
+
+# Ignore yarn debug log
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore PnP files
+.pnp.*
+.pnp.js
+
+# Ignore dependencies directory
+pnp-lock.yaml
+
+# Ignore test coverage reports
+coverage/
+
+# Ignore .vscode directory
+.vscode/
+
+# Ignore .idea directory
+.idea/
+
+# Ignore .DS_Store files
+.DS_Store
+
+# Ignore .env.local files
+.env.local
+
+# Ignore .env.*.local files
+.env.*.local
+
+# Ignore .env.development.local, .env.test.local, .env.production.local, etc.
+.env*.local
+
+# Ignore npm debug log files
+npm-debug.log*
+
+# Ignore yarn error log files
+yarn-error.log*
+
+# Ignore editor files
+*.swp
+*~
+
+# Ignore Mac system files
+._*
