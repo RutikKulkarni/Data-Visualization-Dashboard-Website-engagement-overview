@@ -18,45 +18,41 @@ The backend of the project handles data collection, processing, and storage. It 
 
 To set up the project locally, follow these steps:
 
-1. Clone the frontend repository:
+1. Clone the project repository:
 
    ```bash
-   git clone <frontend-repository-url>
+   git clone <repository-url>
    ```
 
-2. Install frontend dependencies:
+2. Navigate to the project directory:
 
    ```bash
-   cd Website-Engagement-Overview-Frontend
+   cd Website-Engagement-Overview
+   ```
+
+3. Start the backend server:
+
+   ```bash
+   cd backend
    npm install
-   ```
-
-3. Start the frontend development server:
-
-   ```bash
    npm start
    ```
 
-4. Clone the backend repository:
+4. Open another terminal window/tab and navigate to the project directory:
 
    ```bash
-   git clone <backend-repository-url>
+   cd Website-Engagement-Overview
    ```
 
-5. Install backend dependencies:
+5. Start the frontend development server:
 
    ```bash
-   cd Website-Engagement-Overview-Backend
+   cd frontend
    npm install
-   ```
-
-6. Start the backend server:
-
-   ```bash
    npm start
    ```
 
-7. Open the frontend URL in your browser to view the website engagement dashboard.
+6. Open the frontend URL in your browser to view the website engagement dashboard.
 
 ## Usage
 
