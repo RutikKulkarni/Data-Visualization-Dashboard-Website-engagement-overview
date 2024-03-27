@@ -6,7 +6,7 @@ Website Engagement Overview is a project aimed at providing insights into websit
 
 The frontend of the project is responsible for presenting the data in a visually appealing and user-friendly manner. It uses React.js along with Recharts and Material-UI libraries to create interactive charts and graphs for easy interpretation of website metrics.
 
-**Frontend URL:** [Live Demo](http://your-frontend-url.com](https://website-engagement-overview.vercel.app/)
+**Frontend URL:** [Live Demo](https://website-engagement-overview.vercel.app/)
 
 ## Backend
 
