@@ -21,7 +21,7 @@ To set up the project locally, follow these steps:
 1. Clone the project repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/RutikKulkarni/Website-Engagement-Overview
    ```
 
 2. Navigate to the project directory:
